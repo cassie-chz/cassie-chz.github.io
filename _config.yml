@@ -1,10 +1,10 @@
 # Site settings
-title: Ym.L
-SEOTitle: yimin.lu | L's Blog
-header-img: img/home-bg-1.jpg
+title: Hz.C
+SEOTitle: cassie.chz | Cassie's Blog
+header-img: img/psbe.jpg
 email: lymyiyefeng@163.com
-description: "文艺的程序员"
-keyword: "poem, coding, share"
+description: "肆年印象"
+keyword: "poems and futures,love and food"
 url: "http://127.0.0.1"            # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -14,7 +14,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 RSS: false
 # weibo_username:     mushank
 # zhihu_username:     mushank
-github_username:    lymyiyefeng
+github_username:    cassie-chz
 # twitter_username:   mushankkk
 # facebook_username:  mushank
 
@@ -68,8 +68,8 @@ ga_track_id: 'UA-87707150-1'            # Format: UA-xxxxxx-xx
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "路过的风景，错过的人"
-sidebar-avatar: /img/lym.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "末了№衎衎€"
+sidebar-avatar: /img/chz.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
