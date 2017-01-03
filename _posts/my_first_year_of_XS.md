@@ -8,8 +8,7 @@ tag: [PAT, C]
 header-img: "img/post-img/post-bg-unix.jpg"
 ---
 
-###说些什么好呢，那些过去的时光
-![年轻的面孔](http://cassie-chz.github.io/img/first_year.jpg)
+
 ###怀念
 >《从前慢》
 
