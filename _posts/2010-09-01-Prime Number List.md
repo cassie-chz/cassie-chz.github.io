@@ -7,7 +7,8 @@ date: 2010-09-01
 tag: [PAT, C]
 header-img: "img/post-img/post-bg-unix.jpg"
 ---
-
+###说些什么好呢，那些过去的时光
+![年轻的面孔](http://cassie-chz.github.io/img/first_year.jpg)
 ## 一、问题描述
 欲构造n以内（不含n）的素数表，分析如下：
 
