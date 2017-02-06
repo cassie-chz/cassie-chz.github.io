@@ -68,8 +68,8 @@ ga_track_id: 'UA-87707150-1'            # Format: UA-xxxxxx-xx
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "末了№衎衎€"
-sidebar-avatar: /img/chz.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "empty"
+sidebar-avatar: /img/photo.JPG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
