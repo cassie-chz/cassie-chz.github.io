@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "first year of xs"
-subtitle: "肆年印象一"
+title: "没有标题 "
+subtitle: "有空再写"
 author: "cassie"
 date: 2017-01-02
 tag: [PAT, C]
 header-img: "img/post-img/post-bg-ios.jpg"
 ---
-###说些什么好呢，那些过去的时光
-![年轻的面孔](http://cassie-chz.github.io/img/backup/post-bg-universe.jpg)
-###怀念
+### 何以解忧 唯有暴富 ###
+![](http://cassie-chz.github.io/img/post-img/backup/post-bg-railway.jpg)
+### 怀念 ###
 >《从前慢》
 
 记得早先少年时
