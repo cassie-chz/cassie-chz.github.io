@@ -9,8 +9,9 @@ header-img: "img/post-img/post-bg-ios.jpg"
 ---
 ### 何以解忧 唯有暴富 ###
 ![](http://cassie-chz.github.io/img/post-img/backup/post-bg-railway.jpg)
-### 怀念 ###
->《从前慢》
+
+### `怀念` ###
+							《从前慢》
 
 记得早先少年时
 
